@@ -1,6 +1,6 @@
 import squareRoot from './squareRoot.js'
 
-describe('Squareroot', () => {
+describe('SquareRoot', () => {
   it("Should output number's square", () => {
     const actual = squareRoot(3);
     const expected = 9;
