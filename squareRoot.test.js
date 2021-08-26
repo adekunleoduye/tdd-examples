@@ -1,4 +1,4 @@
-import squareRoot from 'squareRoot.js'
+import squareRoot from './squareRoot.js'
 
 describe('Squareroot', () => {
   it("Should output number's square", () => {
