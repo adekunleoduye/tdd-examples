@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "tdd-examples",
+  "version": "1.0.0",
+  "main": "squareRoot.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adekunleoduye/tdd-examples.git"
+  },
+  "author": "Adekunle Oduye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adekunleoduye/tdd-examples/issues"
+  },
+  "homepage": "https://github.com/adekunleoduye/tdd-examples#readme",
+  "description": "TDD in javascript",
+  "keywords": [
+    "javascript",
+    "tdd"
+  ]
+}
