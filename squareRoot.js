@@ -7,5 +7,5 @@
  * @returns 
  */
 export default function squareRoot(num) {
-  return num * num
+  return num ** 2
 }
